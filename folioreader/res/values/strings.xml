@@ -3,14 +3,22 @@
     <string name="app_name">FolioReader</string>
 
     <string name="andada">Andada</string>
+    <string name="comic_sans">Comic</string>
     <string name="lato">Lato</string>
+    <string name="helvetica">Helvetica</string>
     <string name="lora">Lora</string>
+    <string name="open_dyslexic">Open</string>
     <string name="raleway">Raleway</string>
+    <string name="caecilia">Caecilia</string>
 
     <string name="andada_font">fonts/andada/Andada-Regular.otf</string>
+    <string name="comic_sans_font">fonts/comic_sans/Comic_Sans-Regular.ttf</string>
     <string name="lato_font">fonts/lato/Lato-Regular.ttf</string>
+    <string name="helvetica_font">fonts/helvetica/Helvetica-Regular.ttf</string>
     <string name="lora_font">fonts/lora/Lora-Regular.ttf</string>
+    <string name="open_dyslexic_font">fonts/open_dyslexic/OpenDyslexic-Regular.otf</string>
     <string name="raleway_font">fonts/raleway/Raleway-Regular.ttf</string>
+    <string name="caecilia_font">fonts/caecilia/Caecilia-Regular.ttf</string>
 
     <string name="minutes_left">%1$d minutes ·&#160;</string>
     <string name="minute_left">%1$d minute ·&#160;</string>
