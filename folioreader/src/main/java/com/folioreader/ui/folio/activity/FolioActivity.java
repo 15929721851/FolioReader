@@ -231,6 +231,7 @@ public class FolioActivity
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE, WindowManager.LayoutParams.FLAG_SECURE);
         handler = new Handler();
         density = getResources().getDisplayMetrics().density;
         LocalBroadcastManager.getInstance(this).registerReceiver(closeBroadcastReceiver,
